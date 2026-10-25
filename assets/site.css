@@ -11,3 +11,5 @@ a{color:var(--accent)}a:hover{color:#174d80;text-decoration:underline}a:focus-vi
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}}
 
 @media(max-width:640px){.tabulator .tabulator-row .tabulator-cell{overflow:hidden!important;text-overflow:ellipsis!important}.leaderboard{padding:0}.table-shell{border-radius:6px}}
+
+.scoring-details{font-size:13px;color:#596273;margin-top:15px}.scoring-details summary{cursor:pointer;width:fit-content}.scoring-details p{max-width:940px;margin-top:10px;line-height:1.65}.score-formula{margin-top:12px;overflow-wrap:anywhere}.weight-list{display:flex;gap:12px 24px;flex-wrap:wrap;margin-top:12px}.weight-list div{display:flex;gap:8px}.weight-list dt{font-weight:600}.weight-list dd{font-variant-numeric:tabular-nums}
