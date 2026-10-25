@@ -1,0 +1,73 @@
+{
+  "source": "https://github.com/EDA-bench/eda-bench/blob/5d65bfffd6975f44f42914ec15a917d3aacb0298/paper/main.pdf#page=7",
+  "sourceTable": 6,
+  "evaluation": "Archived projects regraded with the corrected grader",
+  "taskCount": 35,
+  "runs": [
+    {
+      "model": "GPT-5.5",
+      "agent": "Codex",
+      "reasoning": "low",
+      "submittedScore": 0.0124,
+      "score": 0.0014,
+      "unweightedScore": 0.0014,
+      "builds": 31
+    },
+    {
+      "model": "GPT-5.5",
+      "agent": "Codex",
+      "reasoning": "medium",
+      "submittedScore": 0.0279,
+      "score": 0.0092,
+      "unweightedScore": 0.0129,
+      "builds": 35
+    },
+    {
+      "model": "GPT-5.5",
+      "agent": "Codex",
+      "reasoning": "high",
+      "submittedScore": 0.0293,
+      "score": 0.0014,
+      "unweightedScore": 0.0014,
+      "builds": 11
+    },
+    {
+      "model": "GPT-5.5",
+      "agent": "Codex",
+      "reasoning": "xhigh",
+      "submittedScore": 0.0458,
+      "score": 0.0148,
+      "unweightedScore": 0.0186,
+      "builds": 21
+    },
+    {
+      "model": "Gemini 3.1 Pro Preview",
+      "agent": "Pi",
+      "reasoning": "high",
+      "submittedScore": 0.0113,
+      "score": 0.0,
+      "unweightedScore": 0.0,
+      "builds": 1
+    },
+    {
+      "model": "DeepSeek V4 Pro",
+      "agent": "Pi",
+      "reasoning": "high",
+      "submittedScore": 0.0,
+      "score": 0.0,
+      "unweightedScore": 0.0,
+      "builds": 0
+    }
+  ],
+  "freshSweep": {
+    "model": "GPT-5.5",
+    "agent": "Codex",
+    "reasoning": "medium",
+    "score": 0.02183,
+    "unweightedScore": 0.02286,
+    "builds": 35,
+    "taskCount": 35,
+    "source": "https://github.com/EDA-bench/eda-bench/blob/5d65bfffd6975f44f42914ec15a917d3aacb0298/paper/main.pdf#page=7"
+  },
+  "sourceRevision": "5d65bfffd6975f44f42914ec15a917d3aacb0298"
+}
